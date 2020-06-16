@@ -1,0 +1,108 @@
+body {
+  font-family: Montserrat;
+  line-height: 2;
+  background-color: #faf5ef;
+}
+
+h1 {
+  font-family: Montserrat-Black;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-family: Montserrat-Bold;
+}
+
+h3 {
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family: Montserrat-Bold;
+  color: #3c9d9b;
+}
+
+h3:hover {
+  color: #52de97;
+}
+
+h4 {
+  font-family: Montserrat-Bold;
+}
+
+.tittleclass {
+  margin-top: 10%;
+  padding-bottom: 200px;
+  width: 100%;
+  padding: 200px 0;
+  color: white;
+  background: #000 url(../images/ofice.jpg) no-repeat center;
+  background-size: cover !important;
+  text-align: center;
+  color: #000;
+}
+
+.tittleh {
+  position: absolute;
+  top: 230px;
+  right: 60px;
+  color: #fff;
+}
+
+/* SECTION FEED */
+#Feed {
+  text-align: left;
+  padding: 7% 10%;
+  padding-bottom: 0;
+}
+
+.feed-img {
+  width: 95%;
+  margin-bottom: 10%;
+}
+
+.str-row {
+  padding: 30px;
+}
+
+/* SECTION SERVICES */
+#Services {
+  text-align: left;
+  padding: 7% 10%;
+}
+
+.serv-img {
+  width: 95%;
+  margin-top: 20%;
+}
+
+/* SECTION ABOUT US */
+#AboutUs {
+  padding: 7% 10%;
+}
+
+.aboutimg {
+  width: 90%;
+}
+
+/* SECTION CONTACT */
+#Contact {
+  margin-left: 5%;
+  padding-bottom: 10%;
+}
+
+.icon {
+  color: #3c9d9b;
+  padding: 5px;
+}
+
+.icon:hover {
+  color: #52de97;
+}
+
+#Copyright {
+  background-color: #d7d1c9;
+  padding-bottom: 20px;
+  text-align: center;
+}
